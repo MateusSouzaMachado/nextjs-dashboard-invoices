@@ -1,12 +1,9 @@
 import AcmeLogo from '@/app/ui/acme-logo';
 import { ArrowRightIcon } from '@heroicons/react/24/outline';
 import Link from 'next/link';
-<<<<<<< HEAD
 import styles from '@/app/ui/home.module.css';
 import Image from 'next/image';
-=======
-import styles from '@/app/ui/home.module.css'
->>>>>>> 5568a30ff96c233fea5183c31e1a87a7e5e909b2
+
 
 export default function Page() {
   return (
